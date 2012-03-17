@@ -25,6 +25,6 @@ setup(name='kotti_analytics',
       packages=find_packages(),
       include_package_data=True,
       zip_safe=False,
-      install_requires=['Kotti'],
+      install_requires=['Kotti>=0.6.0b4'],
       tests_require=['nose', 'coverage'],
       )

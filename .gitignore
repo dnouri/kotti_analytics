@@ -1,0 +1,7 @@
+Kotti.db
+bin/
+include/
+*.egg-info/
+*.pyc
+lib/
+local
